@@ -11,6 +11,6 @@ Llama Coder's key features include:
 *   **Code Optimization:** Llama Coder can analyze your code and suggest improvements for performance, readability, and maintainability.6 This helps you write cleaner and more efficient code.
 *   **Integration with Popular IDEs:** Seamlessly integrate Llama Coder into your favorite Integrated Development Environment (IDE) for a smooth and efficient workflow.7
 
-Watch the introductory video: \<iframe width="560" height="315" src="https://www.youtube.com/embed/2K3FGhmeeCU?si=5wii5mWVqkmQ8sRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>\</iframe>
+Watch the introductory video: [https://www.youtube.com/embed/2K3FGhmeeCU?si=5wii5mWVqkmQ8sRw](https://www.youtube.com/embed/2K3FGhmeeCU?si=5wii5mWVqkmQ8sRw)
 
-Learn more at the official site: https://llamacoder.together.ai/
+Learn more at the official site: [https://llamacoder.together.ai/](https://llamacoder.together.ai/)
