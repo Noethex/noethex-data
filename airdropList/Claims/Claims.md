@@ -4,6 +4,12 @@
 A comprehensive list of active claims, airdrops, and rewards across various blockchain platforms and projects.
 
 ## Active Claims
+- [Jupiter Airdrop](https://vote.jup.ag)
+- [Solayer Airdrop](https://claim.solayer.foundation)
+- [B3 Airdrop](https://claim.b3.fun/airdrop/claim)
+- [Story Airdrop](https://rewards.story.foundation)
+- [Parcl Airdrop](https://claims.parcllimited.com)
+- [Kaito Airdrop](https://claim.kaito.ai)
 
 ### Decentralized Finance (DeFi)
 - [Zircuit Fairdrop](https://app.zircuit.com/fairdrop)
@@ -28,7 +34,6 @@ A comprehensive list of active claims, airdrops, and rewards across various bloc
 - [Lingo Claiming Dashboard](https://app.lingocoin.io/claiming-dashboard)
 - [Soonx Airdrop](https://soonchain.ai/airdrop)
 - [Rango Airdrop](https://rango.vip/a/81BGAH)
-- [Solayer Airdrop](https://app.solayer.org/invite/2T2RC2)
 
 ## Features
 - Easy access to multiple airdrops
