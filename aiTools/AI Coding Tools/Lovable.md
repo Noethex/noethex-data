@@ -2,6 +2,10 @@
 
 Lovable is an innovative AI-powered platform designed to streamline software development by transforming natural language prompts into fully functional web applications. Aimed at developers, entrepreneurs, and non-technical users alike, Lovable accelerates the process of building and deploying software, eliminating the need for extensive coding knowledge. By acting as a virtual full-stack engineer, it empowers users to bring their ideas to life quickly, offering a seamless bridge between concept and execution with a focus on speed, accessibility, and customization.
 
+Watch the introduction to Lovable: [https://www.youtube.com/embed/dQks2NR_K08?si=6Hj3R5SaNtwYWEGF](https://www.youtube.com/embed/dQks2NR_K08?si=6Hj3R5SaNtwYWEGF)
+
+Experience Lovable and explore its potential: [https://lovable.dev](https://lovable.dev)
+
 Lovable's key features include:
 
 *   **Natural Language App Creation:** Users can describe their app ideas in plain English, and Lovable’s AI generates a working prototype in seconds, simplifying the initial development phase.
@@ -12,6 +16,3 @@ Lovable's key features include:
 *   **One-Click Deployment:** Enables effortless publishing of applications with a single click, reducing the complexity of launching a finished product to the web.
 *   **AI-Driven Bug Fixing:** Assists in identifying and resolving issues within the codebase, streamlining the debugging process and improving overall app quality.
 
-Watch the introduction to Lovable: [https://www.youtube.com/embed/dQks2NR_K08?si=6Hj3R5SaNtwYWEGF](https://www.youtube.com/embed/dQks2NR_K08?si=6Hj3R5SaNtwYWEGF)
-
-Experience Lovable and explore its potential: [https://lovable.dev](https://lovable.dev)

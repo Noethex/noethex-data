@@ -2,6 +2,10 @@
 
 Grok3 Research is an advanced AI-powered research platform that transforms the way academics, researchers, and professionals conduct in-depth analysis and literature reviews. Built with state-of-the-art machine learning algorithms, it streamlines the research process by intelligently analyzing vast amounts of academic papers, scientific journals, and scholarly content. The platform excels at identifying patterns, connections, and insights across multiple disciplines, making it an invaluable tool for comprehensive research and academic discovery.
 
+Watch the introduction to Grok3 Research: [https://www.youtube.com/embed/Kyyk6PDP_ho?si=cNfR0C8Z0D6pw-JC](https://www.youtube.com/embed/Kyyk6PDP_ho?si=cNfR0C8Z0D6pw-JC)
+
+Experience Grok3 Research and explore its potential: [https://grok.com](https://grok.com)
+
 Grok3 Research's key features include:
 
 *   **Intelligent Literature Analysis:** Processes and analyzes thousands of academic papers simultaneously, identifying key findings, methodologies, and research gaps with unprecedented accuracy.
@@ -12,6 +16,3 @@ Grok3 Research's key features include:
 *   **Collaborative Research Platform:** Enables team-based research with shared workspaces, annotation tools, and real-time collaboration features.
 *   **Custom Research Workflows:** Adapts to specific research methodologies and requirements with customizable analysis pipelines and reporting templates.
 
-Watch the introduction to Grok3 Research: [https://www.youtube.com/embed/Kyyk6PDP_ho?si=cNfR0C8Z0D6pw-JC](https://www.youtube.com/embed/Kyyk6PDP_ho?si=cNfR0C8Z0D6pw-JC)
-
-Experience Grok3 Research and explore its potential: [https://grok.com](https://grok.com)

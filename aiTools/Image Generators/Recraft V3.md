@@ -2,6 +2,10 @@
 
 Recraft V3 is a powerful AI-powered design tool that helps creators generate and edit vector graphics. It simplifies the process of creating logos, icons, illustrations, and other vector assets, offering a blend of AI assistance and traditional design tools.
 
+Watch the introduction to Recraft V3: [https://www.youtube.com/embed/j_GQTisnZtA?si=ITEPRwwlUD1Dye1h](https://www.youtube.com/embed/j_GQTisnZtA?si=ITEPRwwlUD1Dye1h)
+
+Experience Recraft V3 and explore its potential at the official site: [https://www.recraft.ai/invite/lE9TSCBlNf](https://www.recraft.ai/invite/lE9TSCBlNf)
+
 Recraft V3's key features include:
 
 *   **AI-Powered Vector Generation:** Describe your design ideas in natural language, and Recraft V3 will generate corresponding vector graphics. This allows for rapid prototyping and exploration of visual concepts.
@@ -12,6 +16,4 @@ Recraft V3's key features include:
 *   **Export Options:**  Export your vector graphics in various formats, including SVG, PDF, and more, ensuring compatibility with different platforms and applications.
 *   **Integration with Other Tools:**  Integrate Recraft V3 with other design tools and workflows for a seamless creative experience.
 
-Watch the introduction to Recraft V3: [https://www.youtube.com/embed/j_GQTisnZtA?si=ITEPRwwlUD1Dye1h](https://www.youtube.com/embed/j_GQTisnZtA?si=ITEPRwwlUD1Dye1h)
 
-Experience Recraft V3 and explore its potential at the official site: [https://www.recraft.ai/invite/lE9TSCBlNf](https://www.recraft.ai/invite/lE9TSCBlNf)

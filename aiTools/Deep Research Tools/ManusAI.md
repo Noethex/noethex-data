@@ -2,6 +2,10 @@
 
 ManusAI is a cutting-edge artificial intelligence platform designed to revolutionize creative writing and content generation. Built with advanced natural language processing capabilities, it serves as an intelligent writing assistant that helps authors, content creators, and professionals craft compelling narratives, articles, and creative content. The platform combines sophisticated language understanding with creative storytelling abilities to deliver high-quality, contextually relevant content while maintaining the author's unique voice and style.
 
+Watch the introduction to ManusAI: [https://www.youtube.com/embed/D7XlSqD8N-c?si=eJ8YCL-L4kjmz67s](https://www.youtube.com/embed/D7XlSqD8N-c?si=eJ8YCL-L4kjmz67s)
+
+Experience ManusAI and explore its potential: [https://manus.im](https://manus.im)
+
 ManusAI's key features include:
 
 *   **Intelligent Story Development:** Assists in crafting engaging narratives with sophisticated plot development, character arcs, and story structure suggestions based on genre and style preferences.
@@ -12,6 +16,3 @@ ManusAI's key features include:
 *   **Collaborative Editing:** Provides real-time suggestions and alternatives for improving content structure, flow, and engagement.
 *   **Version Management:** Maintains multiple versions of content with smart comparison and revision tracking capabilities.
 
-Watch the introduction to ManusAI: [https://www.youtube.com/embed/D7XlSqD8N-c?si=eJ8YCL-L4kjmz67s](https://www.youtube.com/embed/D7XlSqD8N-c?si=eJ8YCL-L4kjmz67s)
-
-Experience ManusAI and explore its potential: [https://manus.im](https://manus.im)
