@@ -10,6 +10,12 @@ A comprehensive list of active claims, airdrops, and rewards across various bloc
 - [Story Airdrop](https://rewards.story.foundation)
 - [Parcl Airdrop](https://claims.parcllimited.com)
 - [Kaito Airdrop](https://claim.kaito.ai)
+- [Rivalz Rewards](https://rome.rivalz.ai/?tab=rivalz-rewards)
+- [Mantra Airdrop](https://checker.mantra.zone)
+- [Redstone Claim](https://claim.redstone.finance)
+- [Mint Airdrop](https://www.mintchain.io/airdrop/claim)
+- [Mrkl](https://app.merkl.xyz)
+- [Lisk Checker](https://lisk.com/eligibility-checker/)
 
 ### Decentralized Finance (DeFi)
 - [Zircuit Fairdrop](https://app.zircuit.com/fairdrop)
