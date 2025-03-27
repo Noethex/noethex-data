@@ -4,7 +4,7 @@
 NxFinance provides decentralized finance solutions on Solana.
 
 ## Links
-- Platform: [NxFinance](https://nxfinance.io/airdrop?inviteCode=teamaero)
+- Platform: [NxFinance](https://nxfinance.info/airdrop?inviteCode=teamaer)
 
 ## Features
 - DeFi solutions

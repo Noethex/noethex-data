@@ -1,3 +1,3 @@
 # LoopScale
 
-[LoopScale](loop.sl/i/Zu3IA)
+[LoopScale](https://loop.sl/i/Zu3IA)
