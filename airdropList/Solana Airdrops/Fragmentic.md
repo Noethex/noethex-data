@@ -14,7 +14,7 @@ Get a 10% point boost using my referral code!
 
 - [RateX](https://app.rate-x.io/referral?ref=G8Kntqxj)
 
-- [LoopScale]([loop.sl/i/Zu3IA](https://loop.sl/i/Zu3IA))
+- [LoopScale](https://loop.sl/i/Zu3IA)
 
 - [Exponent](https://www.exponent.finance/liquidity/fragsol-10Jul25)
 
