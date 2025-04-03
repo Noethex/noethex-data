@@ -17,6 +17,7 @@ A comprehensive list of active claims, airdrops, and rewards across various bloc
 - [Lisk Checker](https://lisk.com/eligibility-checker/)
 - [Mantra Airdrop](https://mantra.zone/my-overview)
 - [Ape Pro](https://ape.pro/jupuary)
+- [HyperLane](https://claim.hyperlane.foundation)
 
 ### Decentralized Finance (DeFi)
 - [Zircuit Fairdrop](https://app.zircuit.com/fairdrop)

@@ -4,7 +4,7 @@
 Kamino is a decentralized platform offering lending and borrowing services on Solana.
 
 ## Links
-- Platform: [Kamino](https://www.kamino.finance)
+- Platform: [Kamino](https://swap.kamino.finance/?ref=aerogr)
 
 ## Features
 - Decentralized lending
