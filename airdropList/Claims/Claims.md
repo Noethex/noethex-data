@@ -18,6 +18,8 @@ A comprehensive list of active claims, airdrops, and rewards across various bloc
 - [Mantra Airdrop](https://mantra.zone/my-overview)
 - [Ape Pro](https://ape.pro/jupuary)
 - [HyperLane](https://claim.hyperlane.foundation)
+- [Layer3](https://claim.layer3foundation.org)
+- [WayFinder](https://app.wayfinder.ai/wallet)
 
 ### Decentralized Finance (DeFi)
 - [Zircuit Fairdrop](https://app.zircuit.com/fairdrop)

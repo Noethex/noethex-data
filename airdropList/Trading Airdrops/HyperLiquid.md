@@ -9,15 +9,11 @@ Hyperliquid is a comprehensive DeFi ecosystem offering various services includin
 - Decentralized exchange
 - Advanced trading features
 - User-friendly interface
+- Stake tokens for rewards
+- Yield generation
+- Passive income opportunities
 
 - Main Platform: [Hyperliquid App](https://app.hyperliquid.xyz/join/AEROGR)
-
-### HypeBurn
-- Token burning mechanism
-- Deflationary tokenomics
-- Community-driven burns
-
-- Token Burning: [HypeBurn](https://www.hypeburn.fun)
 
 
 ### Bridge
@@ -27,14 +23,12 @@ Hyperliquid is a comprehensive DeFi ecosystem offering various services includin
 
 - Cross-chain Bridge: [deBridge](https://app.debridge.finance/r/6694)
 
-### Staking
-- Stake tokens for rewards
-- Yield generation
-- Passive income opportunities
+### HypeBurn
+- Token burning mechanism
+- Deflationary tokenomics
+- Community-driven burns
 
-- Staking Platform: [Hyperliquid Staking](https://app.hyperliquid.xyz/staking)
-
-
+- Token Burning: [HypeBurn](https://www.hypeburn.fun)
 
 
 

@@ -4,7 +4,7 @@
 Huma Finance is a comprehensive decentralized finance platform on Solana.
 
 ## Links
-- Platform: [Huma Finance](https://app.huma.finance/#/?referralCode=dgydNk)
+- Platform: [Huma Finance](https://app.huma.finance?ref=3j3CCw)
 
 ## Features
 - DeFi services
